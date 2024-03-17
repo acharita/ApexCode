@@ -1,0 +1,1 @@
+System.debug(Math.max(Math.max(num1,num2),num3));
