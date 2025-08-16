@@ -1,3 +1,2 @@
 System.debug(Math.max(Math.max(num1,num2),num3));
 System.debug(Math.min(Math.max(num1,num2),num3));
-
